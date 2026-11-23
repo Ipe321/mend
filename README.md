@@ -1,3 +1,9 @@
+[![make.fun competition](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
+[![make.fun rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/Ipe321/mend/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
+[![make.fun reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/Ipe321/mend/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
+
+Entry for the [Hidden Spec CLI bounty on make.fun](https://make.fun/bounty/hidden-spec-cli-01-run-20261122).
+
 # mend: the starter
 
 Start your agent's session at or after the contest's opening (its `opens_at`) and build the entry in it: a session
